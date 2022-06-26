@@ -1,5 +1,4 @@
-# Advanced-Machine-Learning-Specialization
-Advanced Machine Learning Specialization on Coursera
+# Advanced Machine Learning Specialization on Coursera
 
 The Large Hadron Collider (LHC) is the largest data generation machine for the time being. It doesn’t produce the big data, the data is gigantic. Just one of the four experiments generates thousands gigabytes per second. The intensity of data flow is only going to be increased over the time. So the data processing techniques have to be quite sophisticated and unique.
 
